@@ -7,5 +7,12 @@ public class demo {
         // generate two random numbers between 0 and 3
         System.out.println(random.nextInt(4));
         System.out.println(random.nextInt(4));
+
+        String s = "ACG";
+
+        if(s.equals("ACG"))
+            System.out.println("Match");
+
+        //generate three random 
     }
 }
