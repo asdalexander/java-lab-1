@@ -21,7 +21,7 @@ public class Lab_1
         if (P_A + P_T + P_G + P_C == 1)
             System.out.println("PASS, generating k-mers...\n");
         else
-            System.out.println("FAIL, exiting...\n");
+            System.out.println("FAIL, please make sure nucleotide probabilities sum to 1.\n");
     }
 
 
