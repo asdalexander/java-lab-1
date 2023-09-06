@@ -1,7 +1,7 @@
 # java-lab-1
 
 ## Question 1
-- Code for this question exists in this directory as `Lab_1.java`.
+Code for this question exists in this directory as `Lab_1.java`.
 
 ## Question 2
 Using the original nucleotide frequency probabilities of 0.25: I expect the 3-mer `AAA` to appear roughly 16 times in 1000 randomly generated  3-mers.
