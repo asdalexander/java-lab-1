@@ -1,9 +1,9 @@
-package lab_2;
+package labTwo;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class Lab_2 {
+public class labTwo {
     private static final String[] SHORT_NAMES =
             // Array to store single-letter amino acids
             { "A", "R", "N", "D", "C", "Q", "E", "G", "H", "I", "L", "K", "M", "F", "P", "S", "T", "W", "Y", "V" };
