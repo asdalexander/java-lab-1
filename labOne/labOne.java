@@ -1,8 +1,8 @@
-package lab_1;
+package labOne;
 
 import java.util.Random;
 
-public class Lab_1
+public class labOne
 {
     // Variables to store probabilities of generating each nucleotide
     public static double P_A=0.12;
